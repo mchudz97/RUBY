@@ -11,3 +11,5 @@ group :test do
 end
 
 # gem "rails"
+
+gem "rake", "~> 13.0"
