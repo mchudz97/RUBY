@@ -5,3 +5,4 @@ rvm:
 script:
   - bundle exec ruby test/*
   - bundle exec rspec 
+  - bundle exec rake test
