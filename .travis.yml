@@ -1,8 +1,9 @@
 language: ruby
 rvm:
  - 2.3.8
+ - 2.5.0
  - 2.6.3
- - jruby
+
 
 script:
   - bundle exec ruby test/*
