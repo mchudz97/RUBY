@@ -1054,7 +1054,7 @@
         null
       ]
     },
-    "timestamp": 1572892335
+    "timestamp": 1572893909
   },
   "test:spec": {
     "coverage": {
@@ -2738,9 +2738,6 @@
         null,
         null
       ],
-      "/home/mc/Travis/RUBY/test/test_test.rb": [
-        1
-      ],
       "/home/mc/Travis/RUBY/test/twelve_days_test.rb": [
         1,
         1,
@@ -2822,6 +2819,6 @@
         null
       ]
     },
-    "timestamp": 1572893092
+    "timestamp": 1572893919
   }
 }
