@@ -1,4 +1,4 @@
 SimpleCov.start do
-  add_group "minitest", "test"
-  add_group "rspec", "spec"
+  add_filter "/test/"
+  add_filter "/spec/"
 end
